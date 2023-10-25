@@ -3,6 +3,7 @@
 
 <div class="home-main">
     <div class="container">
+        <h1>Learning is the Best Thing</h1>
         <h2>Addict to Learning</h2>
     </div>
 </div>
