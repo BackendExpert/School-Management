@@ -13,10 +13,11 @@
         <h1>All Plans</h1>
 
         <div class="row">
-            <div class="col-lg-4 plan-info">
+            <div class="col-lg-5 plan-info">
                 <div class="plan-head">School</div>
             </div>
-            <div class="col-lg-4 plan-info">
+            <div class="col-lg-2">&nbsp;&nbsp;</div>
+            <div class="col-lg-5 plan-info">
                 <div class="plan-head">Teacher</div>
             </div>
         </div>
