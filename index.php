@@ -10,7 +10,13 @@
 </div>
 <section class="plans">
     <div class="container">
-        All Plans
+        <h1>All Plans</h1>
+
+        <div class="row">
+            <div class="col-lg-4">School</div>
+            <div class="col-lg-4">Teacher</div>
+            <div class="col-lg-4">Student</div>
+        </div>
     </div>
 </section>
 
