@@ -141,4 +141,8 @@
     </div>
 </section>
 <br><br>
+
+<footer class="main-footer">
+
+</footer>
 <script src="js/script.js"></script>
