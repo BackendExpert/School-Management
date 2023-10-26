@@ -25,6 +25,7 @@
             </div>
             <div class="col-lg-2">&nbsp;&nbsp;</div>
             <div class="col-lg-5 plan-info">
+            <div class="plan-head">Teacher</div>
                 <div class="plan-body">
                     <p class="info-green"><i class="far fa-check-circle"></i> Lorem ipsum dolor sit amet.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
