@@ -119,11 +119,11 @@
     </div>
 </section>
 <br><hr><br>
-<section class="start-school">
+<section class="start-school" id="student">
     <div class="container">
     <div class="row">
         <div class="col-lg-5">
-            <h1>Start as School</h1>
+            <h1>Start as Student</h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam pariatur tenetur expedita omnis quia mollitia, perspiciatis, eius eum, neque dolorum debitis fuga doloremque repudiandae explicabo cumque earum dolor est. Sed?
                 Est dicta tempora officia, obcaecati soluta laborum provident facilis minima sint rem, cum, ipsa corporis assumenda vero velit corrupti? Voluptatibus quos adipisci neque. Repellendus eligendi quas possimus in error perspiciatis!
