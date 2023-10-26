@@ -75,17 +75,7 @@
 
     </div>
 </section>
-
 <section class="start-school">
-    <div class="row">
-        <div class="col-lg-6">
-            <h1>Start As School</h1>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat consequatur, odit id dolore non minima, aliquam, autem consectetur sequi alias omnis magni eligendi blanditiis quod error praesentium! Doloremque ratione suscipit libero voluptas laudantium quia laborum, et eaque iusto aliquam veniam quibusdam eos, fugit esse? Reiciendis ipsam aspernatur veniam deleniti cumque architecto corrupti nesciunt ducimus quas odio minus repudiandae blanditiis adipisci unde vitae a at suscipit itaque ex, consectetur est dicta hic beatae! Voluptate explicabo repudiandae quasi tempore dicta sit provident quos aperiam sapiente laudantium, excepturi quidem neque nobis ut enim iure quisquam mollitia facilis. Delectus distinctio tenetur illo amet dolor!
-            </p>
-        </div>
-        <div class="col-lg-6"></div>
-    </div>
+    <h1>Start as School</h1>
 </section>
-
 <script src="js/script.js"></script>
