@@ -46,7 +46,7 @@
 
                     <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
 
-                    <a href=""><button class="btn btn-primary">Start As a School</button></a>
+                    <a href=""><button class="btn btn-primary">Start As a Teacher</button></a>
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@
 
                     <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
 
-                    <a href=""><button class="btn btn-primary">Start As a School</button></a>
+                    <a href=""><button class="btn btn-primary">Start As a Student</button></a>
                 </div>
             </div>
             <div class="col-lg-4"></div>
