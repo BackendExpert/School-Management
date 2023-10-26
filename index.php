@@ -76,23 +76,69 @@
     </div>
 </section>
 <section class="start-school">
+    <div class="container">
     <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-5">
             <h1>Start as School</h1>
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum molestiae aut similique beatae error corrupti quia laboriosam quod? Similique perferendis facilis culpa, labore natus maiores soluta nemo harum tempore amet?
-                Eligendi, velit autem cupiditate rerum, commodi cumque quisquam repellendus quam qui deleniti, unde odio fugit natus sed voluptatem doloribus est? Quos rem quam sequi unde quod aspernatur provident quae non.
-                Molestiae soluta in velit eaque dignissimos omnis alias, facere nobis quasi iure provident mollitia ipsum quibusdam exercitationem harum cumque. Deserunt earum tempore quisquam. Eligendi officiis placeat commodi, reiciendis saepe molestias?
-                Ad quaerat recusandae harum amet, veritatis deserunt esse. Laboriosam nisi placeat quisquam. Ea tempora, praesentium minima cumque quos perspiciatis veritatis at. Dicta soluta, saepe consequuntur optio facere nihil consequatur. Eveniet?
-                Pariatur inventore laboriosam officia, nostrum ex quis eius atque, magni ducimus at adipisci, quam numquam vitae nam earum! Eos architecto aperiam cum voluptates. Ullam ex aut, voluptatem ut quo pariatur?
-                Nihil, earum nisi consequuntur sequi aperiam explicabo cum? Eos nisi quaerat, sit eligendi magnam id saepe, beatae eveniet consequatur, culpa rerum pariatur blanditiis ex dicta nulla rem fugit odit aspernatur.
-                Ipsum quibusdam nihil assumenda, beatae corporis quas recusandae ipsam fugit temporibus tempore laudantium necessitatibus voluptatem aperiam omnis expedita sequi exercitationem blanditiis incidunt officiis modi sit architecto. Neque, consectetur quasi. Omnis?
-                Rerum quia fuga ad, quae modi soluta alias at dolorum accusamus suscipit ipsa quas, voluptatum laborum maiores rem, incidunt earum libero eaque natus? Alias eius fugiat non ipsum dignissimos voluptas?
-                Doloribus officiis, impedit, sunt tempore distinctio illo quidem minima architecto adipisci molestias perspiciatis! Odit, commodi eos enim magni, impedit perspiciatis hic omnis optio quas at reprehenderit ratione unde. Reprehenderit, ipsa!
-                Nobis tempore animi neque aliquid voluptatibus iure, sint, sunt delectus, culpa quod natus. Quo, voluptatibus tempora quidem aperiam consequuntur quos natus blanditiis rem temporibus distinctio odio! A suscipit ut esse?
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam pariatur tenetur expedita omnis quia mollitia, perspiciatis, eius eum, neque dolorum debitis fuga doloremque repudiandae explicabo cumque earum dolor est. Sed?
+                Est dicta tempora officia, obcaecati soluta laborum provident facilis minima sint rem, cum, ipsa corporis assumenda vero velit corrupti? Voluptatibus quos adipisci neque. Repellendus eligendi quas possimus in error perspiciatis!
+                Assumenda veniam magnam corporis impedit placeat minus, nihil vel illum cumque iusto dolorem consequatur rem cupiditate quibusdam explicabo, dolores numquam, nam praesentium neque maiores esse ipsa soluta odit! Cum, architecto.
+                Consectetur quis maxime, vitae, tempora corrupti qui beatae dolores at sunt saepe repellat nesciunt tenetur quam, rerum quasi. Voluptas tempore temporibus fuga nulla quod delectus mollitia, doloremque repellendus perspiciatis deleniti!
+                Sint, aliquid ea? Eum fuga voluptatibus soluta velit, voluptatum ipsa officiis nobis sint obcaecati! Alias aliquam pariatur in doloremque natus provident ut exercitationem assumenda, autem, vel esse quam odit nisi.
             </p>
+            <a href=""><button class="btn btn-primary">Start As a Student</button></a>
         </div>
-        <div class="col-lg-6"></div>
+        <div class="col-lg-1">&nbsp;&nbsp;</div>
+        <div class="col-lg-6">
+            <div class="school-img"></div>
+        </div>
+    </div>
     </div>
 </section>
+<br><hr><br>
+<section class="start-school">
+    <div class="container">
+    <div class="row">
+        <div class="col-lg-5">
+            <div class="school-img"></div>
+        </div>
+        <div class="col-lg-1">&nbsp;&nbsp;</div>
+        <div class="col-lg-6">
+        <h1>Start as Teacher</h1>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam pariatur tenetur expedita omnis quia mollitia, perspiciatis, eius eum, neque dolorum debitis fuga doloremque repudiandae explicabo cumque earum dolor est. Sed?
+                Est dicta tempora officia, obcaecati soluta laborum provident facilis minima sint rem, cum, ipsa corporis assumenda vero velit corrupti? Voluptatibus quos adipisci neque. Repellendus eligendi quas possimus in error perspiciatis!
+                Assumenda veniam magnam corporis impedit placeat minus, nihil vel illum cumque iusto dolorem consequatur rem cupiditate quibusdam explicabo, dolores numquam, nam praesentium neque maiores esse ipsa soluta odit! Cum, architecto.
+                Consectetur quis maxime, vitae, tempora corrupti qui beatae dolores at sunt saepe repellat nesciunt tenetur quam, rerum quasi. Voluptas tempore temporibus fuga nulla quod delectus mollitia, doloremque repellendus perspiciatis deleniti!
+                Sint, aliquid ea? Eum fuga voluptatibus soluta velit, voluptatum ipsa officiis nobis sint obcaecati! Alias aliquam pariatur in doloremque natus provident ut exercitationem assumenda, autem, vel esse quam odit nisi.
+            </p>
+            <a href=""><button class="btn btn-primary">Start As a Student</button></a>
+        </div>
+    </div>
+    </div>
+</section>
+<br><hr><br>
+<section class="start-school">
+    <div class="container">
+    <div class="row">
+        <div class="col-lg-5">
+            <h1>Start as School</h1>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam pariatur tenetur expedita omnis quia mollitia, perspiciatis, eius eum, neque dolorum debitis fuga doloremque repudiandae explicabo cumque earum dolor est. Sed?
+                Est dicta tempora officia, obcaecati soluta laborum provident facilis minima sint rem, cum, ipsa corporis assumenda vero velit corrupti? Voluptatibus quos adipisci neque. Repellendus eligendi quas possimus in error perspiciatis!
+                Assumenda veniam magnam corporis impedit placeat minus, nihil vel illum cumque iusto dolorem consequatur rem cupiditate quibusdam explicabo, dolores numquam, nam praesentium neque maiores esse ipsa soluta odit! Cum, architecto.
+                Consectetur quis maxime, vitae, tempora corrupti qui beatae dolores at sunt saepe repellat nesciunt tenetur quam, rerum quasi. Voluptas tempore temporibus fuga nulla quod delectus mollitia, doloremque repellendus perspiciatis deleniti!
+                Sint, aliquid ea? Eum fuga voluptatibus soluta velit, voluptatum ipsa officiis nobis sint obcaecati! Alias aliquam pariatur in doloremque natus provident ut exercitationem assumenda, autem, vel esse quam odit nisi.
+            </p>
+            <a href=""><button class="btn btn-primary">Start As a Student</button></a>
+        </div>
+        <div class="col-lg-1">&nbsp;&nbsp;</div>
+        <div class="col-lg-6">
+            <div class="school-img"></div>
+        </div>
+    </div>
+    </div>
+</section>
+
 <script src="js/script.js"></script>

@@ -49,8 +49,17 @@
 }
 .start-school h1{
     font-size: 30px;
-    padding: 0 0 0 25px;
+    margin: 0 25px;
 }
 .start-school p{
-    padding: 0 0 0 25px;
+    margin: 0 0 0 -50px;
+}
+.school-img{
+    background-image: url(https://wallpapercave.com/dwp1x/wp3222116.jpg);
+    width: 110%;
+    height: 100%;
+    padding-right: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
