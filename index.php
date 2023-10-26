@@ -21,6 +21,12 @@
                     <p class="info-green"><i class="far fa-check-circle"></i> debitis doloremque ad facilis corporis.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> Aliquid incidunt nam tenetur quisquam.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+                    
+
+                    <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> Aliquid incidunt nam tenetur quisquam.</p>
+                    <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
                 </div>
             </div>
             <div class="col-lg-2">&nbsp;&nbsp;</div>
@@ -33,10 +39,10 @@
                     <p class="info-green"><i class="far fa-check-circle"></i> Aliquid incidunt nam tenetur quisquam.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
 
-                    <p class="info-yellow"><i class="far fa-check-circle"></i> Aliquid incidunt nam tenetur quisquam.</p>
-                    <p class="info-yellow"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+                    <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> Aliquid incidunt nam tenetur quisquam.</p>
+                    <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
 
-                    <p class="info-red"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+                    <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
                 </div>
             </div>
         </div>
@@ -51,6 +57,11 @@
                     <p class="info-green"><i class="far fa-check-circle"></i> debitis doloremque ad facilis corporis.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> Aliquid incidunt nam tenetur quisquam.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> Aliquid incidunt nam tenetur quisquam.</p>
+                    <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
                 </div>
             </div>
             <div class="col-lg-4"></div>
