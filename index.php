@@ -147,14 +147,20 @@
     <h1>
         Institute Management System
     </h1>
+    <hr>
     <div class="row">
         <div class="col-lg-4">
             <h3>Institute Management System</h3>
             <p>
-                Lorem ipsum dolor sit amet.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, rem maxime.
             </p>
         </div>
-        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <h3>Useful links</h3>
+            <ul>
+                <li><a href="">link 1</a></li>
+            </ul>
+        </div>
         <div class="col-lg-4"></div>
     </div>
     </div>
