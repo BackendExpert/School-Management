@@ -158,7 +158,10 @@
         <div class="col-lg-4">
             <h3>Useful links</h3>
             <ul>
-                <li><a href="">link 1</a></li>
+                <li><a href="">Useful link 1</a></li>
+                <li><a href="">Useful link 2</a></li>
+                <li><a href="">Useful link 3</a></li>
+                <li><a href="">Useful link 4</a></li>
             </ul>
         </div>
         <div class="col-lg-4"></div>
