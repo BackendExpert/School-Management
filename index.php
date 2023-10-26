@@ -168,7 +168,7 @@
             <h3>Contact</h3>
             <ul>
                 <li><i class="fas fa-map-marked-alt"></i> Kandy, Sri Lanka</li>
-                <li><i class="fas fa-phone-alt"></i> +94 711758851</li>
+                <li><i class="fas fa-mobile-alt"></i> +94 711758851</li>
                 <li><i class="far fa-envelope-open"></i>jehankandy@gmail.com</li>
             </ul>
         </div>
