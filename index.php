@@ -75,7 +75,7 @@
 
     </div>
 </section>
-<section class="start-school">
+<section class="start-school" id="school">
     <div class="container">
     <div class="row">
         <div class="col-lg-5">
@@ -97,7 +97,7 @@
     </div>
 </section>
 <br><hr><br>
-<section class="start-school">
+<section class="start-school" id="teacher">
     <div class="container">
     <div class="row">
         <div class="col-lg-5">
