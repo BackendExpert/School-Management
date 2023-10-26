@@ -8,5 +8,10 @@
         <p><a href=""><button class="btn btn-primary">Start as School</button></a></p>
     </div>
 </div>
+<section class="plans">
+    <div class="container">
+        All Plans
+    </div>
+</section>
 
 <script src="js/script.js"></script>
