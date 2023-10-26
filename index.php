@@ -19,10 +19,16 @@
             <div class="col-lg-4 plan-info">
                 <div class="plan-head">Teacher</div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-lg-4 plan-info">
-                <div class="plan-head">Student</div>
+                <div class="plan-head">School</div>
+            </div>
+            <div class="col-lg-4 plan-info">
+                <div class="plan-head">Teacher</div>
             </div>
         </div>
+
     </div>
 </section>
 
