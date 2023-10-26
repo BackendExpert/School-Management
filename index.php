@@ -16,7 +16,11 @@
             <div class="col-lg-5 plan-info">
                 <div class="plan-head">School</div>
                 <div class="plan-body">
-                    <p class="info-green"><i class="far fa-check-circle"></i> Any Institute can apply</p>
+                    <p class="info-green"><i class="far fa-check-circle"></i> Lorem ipsum dolor sit amet.</p>
+                    <p class="info-green"><i class="far fa-check-circle"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p class="info-green"><i class="far fa-check-circle"></i> debitis doloremque ad facilis corporis.</p>
+                    <p class="info-green"><i class="far fa-check-circle"></i> Aliquid incidunt nam tenetur quisquam.</p>
+                    <p class="info-green"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
                 </div>
             </div>
             <div class="col-lg-2">&nbsp;&nbsp;</div>
