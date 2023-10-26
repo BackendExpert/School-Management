@@ -76,6 +76,23 @@
     </div>
 </section>
 <section class="start-school">
-    <h1>Start as School</h1>
+    <div class="row">
+        <div class="col-lg-6">
+            <h1>Start as School</h1>
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum molestiae aut similique beatae error corrupti quia laboriosam quod? Similique perferendis facilis culpa, labore natus maiores soluta nemo harum tempore amet?
+                Eligendi, velit autem cupiditate rerum, commodi cumque quisquam repellendus quam qui deleniti, unde odio fugit natus sed voluptatem doloribus est? Quos rem quam sequi unde quod aspernatur provident quae non.
+                Molestiae soluta in velit eaque dignissimos omnis alias, facere nobis quasi iure provident mollitia ipsum quibusdam exercitationem harum cumque. Deserunt earum tempore quisquam. Eligendi officiis placeat commodi, reiciendis saepe molestias?
+                Ad quaerat recusandae harum amet, veritatis deserunt esse. Laboriosam nisi placeat quisquam. Ea tempora, praesentium minima cumque quos perspiciatis veritatis at. Dicta soluta, saepe consequuntur optio facere nihil consequatur. Eveniet?
+                Pariatur inventore laboriosam officia, nostrum ex quis eius atque, magni ducimus at adipisci, quam numquam vitae nam earum! Eos architecto aperiam cum voluptates. Ullam ex aut, voluptatem ut quo pariatur?
+                Nihil, earum nisi consequuntur sequi aperiam explicabo cum? Eos nisi quaerat, sit eligendi magnam id saepe, beatae eveniet consequatur, culpa rerum pariatur blanditiis ex dicta nulla rem fugit odit aspernatur.
+                Ipsum quibusdam nihil assumenda, beatae corporis quas recusandae ipsam fugit temporibus tempore laudantium necessitatibus voluptatem aperiam omnis expedita sequi exercitationem blanditiis incidunt officiis modi sit architecto. Neque, consectetur quasi. Omnis?
+                Rerum quia fuga ad, quae modi soluta alias at dolorum accusamus suscipit ipsa quas, voluptatum laborum maiores rem, incidunt earum libero eaque natus? Alias eius fugiat non ipsum dignissimos voluptas?
+                Doloribus officiis, impedit, sunt tempore distinctio illo quidem minima architecto adipisci molestias perspiciatis! Odit, commodi eos enim magni, impedit perspiciatis hic omnis optio quas at reprehenderit ratione unde. Reprehenderit, ipsa!
+                Nobis tempore animi neque aliquid voluptatibus iure, sint, sunt delectus, culpa quod natus. Quo, voluptatibus tempora quidem aperiam consequuntur quos natus blanditiis rem temporibus distinctio odio! A suscipit ut esse?
+            </p>
+        </div>
+        <div class="col-lg-6"></div>
+    </div>
 </section>
 <script src="js/script.js"></script>
