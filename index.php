@@ -143,6 +143,8 @@
 <br><br>
 
 <footer class="main-footer">
-
+    <h1>
+        Institute Management System
+    </h1>
 </footer>
 <script src="js/script.js"></script>
