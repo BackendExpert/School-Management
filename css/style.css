@@ -41,3 +41,9 @@
 .plans .plan-body .info-green{
     color: green;
 }
+.plans .plan-body .info-yellow{
+    color: yellow;
+}
+.plans .plan-body .info-red{
+    color: red;
+}

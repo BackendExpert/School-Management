@@ -32,6 +32,11 @@
                     <p class="info-green"><i class="far fa-check-circle"></i> debitis doloremque ad facilis corporis.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> Aliquid incidunt nam tenetur quisquam.</p>
                     <p class="info-green"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <p class="info-yellow"><i class="far fa-check-circle"></i> Aliquid incidunt nam tenetur quisquam.</p>
+                    <p class="info-yellow"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <p class="info-red"><i class="far fa-check-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
                 </div>
             </div>
         </div>
