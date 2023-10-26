@@ -167,7 +167,7 @@
         <div class="col-lg-4">
             <h3>Contact</h3>
             <ul>
-                <li></li>
+                <li><i class="fas fa-map-marked-alt	"></i> Kandy, Sri Lanka</li>
             </ul>
         </div>
     </div>
