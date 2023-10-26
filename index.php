@@ -13,7 +13,7 @@
         <h1>All Plans</h1>
 
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 plan-info">
                 <div class="plan-head">School</div>
             </div>
             <div class="col-lg-4">
