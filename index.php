@@ -15,19 +15,20 @@
         <div class="row">
             <div class="col-lg-5 plan-info">
                 <div class="plan-head">School</div>
+                <div class="plan-body"></div>
             </div>
             <div class="col-lg-2">&nbsp;&nbsp;</div>
             <div class="col-lg-5 plan-info">
                 <div class="plan-head">Teacher</div>
             </div>
         </div>
+        <br>
         <div class="row">
+            <div class="col-lg-4"></div>
             <div class="col-lg-4 plan-info">
-                <div class="plan-head">School</div>
+                <div class="plan-head">Student</div>
             </div>
-            <div class="col-lg-4 plan-info">
-                <div class="plan-head">Teacher</div>
-            </div>
+            <div class="col-lg-4"></div>
         </div>
 
     </div>
