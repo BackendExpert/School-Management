@@ -64,10 +64,11 @@
     background-size: cover;
 }
 .main-footer{
-    background-image: url(https://images.unsplash.com/photo-1558021211-6d1403321394?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGVkdWNhdGlvbnxlbnwwfHwwfHx8MA%3D%3D);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(37, 37, 37, 0.73)), url('https://wallpapercave.com/dwp1x/wp4430524.jpg');
     height: 100%;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
 }
