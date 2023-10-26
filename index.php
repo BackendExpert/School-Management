@@ -164,7 +164,12 @@
                 <li><a href="">Useful link 4</a></li>
             </ul>
         </div>
-        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <h3>Contact</h3>
+            <ul>
+                <li></li>
+            </ul>
+        </div>
     </div>
     </div>
 </footer>
