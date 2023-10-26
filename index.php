@@ -143,8 +143,20 @@
 <br><br>
 
 <footer class="main-footer">
+    <div class="container">
     <h1>
         Institute Management System
     </h1>
+    <div class="row">
+        <div class="col-lg-4">
+            <h3>Institute Management System</h3>
+            <p>
+                Lorem ipsum dolor sit amet.
+            </p>
+        </div>
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4"></div>
+    </div>
+    </div>
 </footer>
 <script src="js/script.js"></script>
