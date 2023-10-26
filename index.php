@@ -16,7 +16,7 @@
             <div class="col-lg-5 plan-info">
                 <div class="plan-head">School</div>
                 <div class="plan-body">
-                    <i class="far fa-check-circle"></i> School
+                    <p class="info-green"><i class="far fa-check-circle"></i> School</p>
                 </div>
             </div>
             <div class="col-lg-2">&nbsp;&nbsp;</div>
