@@ -32,5 +32,6 @@
     padding: 50px 0;
 }
 .plans .plan-info{
-    border: 1px solid black;
+    border: 1px solid rgb(172, 172, 172);
+    border-radius: 5px;
 }
