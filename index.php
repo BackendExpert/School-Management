@@ -13,9 +13,15 @@
         <h1>All Plans</h1>
 
         <div class="row">
-            <div class="col-lg-4">School</div>
-            <div class="col-lg-4">Teacher</div>
-            <div class="col-lg-4">Student</div>
+            <div class="col-lg-4">
+                <div class="plan-head">School</div>
+            </div>
+            <div class="col-lg-4">
+                <div class="plan-head">School</div>
+            </div>
+            <div class="col-lg-4">
+                <div class="plan-head">School</div>
+            </div>
         </div>
     </div>
 </section>
