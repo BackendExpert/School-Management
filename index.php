@@ -27,6 +27,8 @@
                     <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
 
                     <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <a href=""><button class="btn btn-primary">Start As a School</button></a>
                 </div>
             </div>
             <div class="col-lg-2">&nbsp;&nbsp;</div>
@@ -43,6 +45,8 @@
                     <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
 
                     <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <a href=""><button class="btn btn-primary">Start As a School</button></a>
                 </div>
             </div>
         </div>
@@ -62,6 +66,8 @@
                     <p class="info-yellow"><i class="fas fa-exclamation-triangle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
 
                     <p class="info-red"><i class="fas fa-exclamation-circle"></i> quisquam necessitatibus quibusdam consectetur, debitis.</p>
+
+                    <a href=""><button class="btn btn-primary">Start As a School</button></a>
                 </div>
             </div>
             <div class="col-lg-4"></div>
